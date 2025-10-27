@@ -279,14 +279,16 @@ body {
     color: #888;
 }
 
-.btn2 {
+.footer-address .btn2 {
     background-color: #71e462;
+    margin-right: 100px;
     color: white;
     border: none;
     padding: 0.75rem 1.5rem;
     border-radius: 25px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+
 }
 
 .btn2:hover {
@@ -429,6 +431,7 @@ body {
 
     .btn2 {
         margin-top: 20px;
+        margin-left: 90px;
     }
 
     .footer-address {
@@ -584,6 +587,7 @@ body {
 
     .btn2 {
         margin-top: 20px;
+        margin-left: 90px;
     }
 
     .footer-address {
